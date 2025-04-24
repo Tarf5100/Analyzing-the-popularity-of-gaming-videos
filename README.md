@@ -46,4 +46,13 @@
     <p>In this phase, we will analyze the relationships between video metadata and engagement metrics through statistical tests and visualizations.</p>
     <h3>Phase 3: Modeling & Prediction</h3>
     <p>We will use machine learning models to predict the success of a gaming video based on its metadata and engagement patterns.</p>
+      <h2 style="margin-top: 30px;">Team Members</h2>
+    <ul>
+      <li>Tarfah Bin Moammar</li>
+      <li>Rawan Al-Batati</li>
+      <li>Haya Al-Fayez</li>
+      <li>Dalal Al-Yousef</li> 
+      <li>Haya Al-Ibrahim</li>
+    </ul>
+    <hr style="margin-top: 40px;">
 </body>
